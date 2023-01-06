@@ -1,6 +1,6 @@
 #load in data
 
-df<-read.csv("~/Thesis Conjoint/Data/DF4.csv")
+df<-read.csv("~/Thesis Conjoint/Data/DF.csv")
 df
 summary(df)
 
