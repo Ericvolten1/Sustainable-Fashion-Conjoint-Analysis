@@ -1,5 +1,5 @@
 # Sustainable-Fashion-Conjoint-Analysis
-Volten, E. S. N. (2023). Do Consumers Adhere to Unacceptable Attribute Levels? A Conjoint Analysis of Sustainable Fashion. Tilburg University Master's Thesis
+Volten, E. S. N. (2023). Do Consumers Adhere to Unacceptable Attribute Levels? A Conjoint Analysis of Sustainable Fashion. *Tilburg University Master's Thesis*
 
 
 ## Dependencies
